@@ -1,0 +1,41 @@
+{
+  "contacts": [
+    {
+      "name": "Tony Montana",
+      "photo": "https://media.newyorker.com/photos/5e70fef11785a2000935d0eb/master/w_2560%2Cc_limit/ra722.jpg",
+      "email": "tony@gmail.com",
+      "mobile": "0125",
+      "company": "T-company",
+      "title": "Cuban Cartel",
+      "groupID": "",
+      "group": "5",
+      "id": 1
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
